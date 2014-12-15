@@ -1,4 +1,4 @@
-Very-Caged-Angle
+Very-Caged-Angel
 ================
 
 Test indie project
